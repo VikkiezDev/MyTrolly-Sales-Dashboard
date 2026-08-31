@@ -25,6 +25,6 @@ An interactive, end-to-end Excel Sales Dashboard designed to track key performan
 │   └── raw_sales_data.xlsx    # Raw sales data
 ├── dashboard/
 │   └── sales_data_dashboard.xlsx    # Actual dashboard with the needed pivot tables
-├── assets/
+├── preview/
 │   └── dashboard_preview.png    # Preview screenshot of the active dashboard
 └── README.md                    # Project documentation
